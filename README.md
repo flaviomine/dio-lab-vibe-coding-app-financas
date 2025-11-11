@@ -1,6 +1,12 @@
 # 💸 FinanceIA - App de Finanças Pessoais 
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
+Demonstrar os entregáveis do Desafio de Desenvolver um app de organização de finanças pessoais com IA conversacional.
+
+## 📑 Índice
+- PRD Refinado
+- Interações com a IA
+- Funcionalidades do App
+- Resultado Final
 
 ### PRD Refinado no Copilot M365
 
@@ -140,7 +146,7 @@ Usuários desistem de controlar suas finanças por causa de:
 - Explicações sob demanda
 ```
 
-### Interações com a IA
+### 🤖 Interações com a IA
 
 **Interações com o Copilot M365:**
 
@@ -172,7 +178,7 @@ Resultado Final no Lovable: https://vibe-finance-chat.lovable.app/
 **Resumo básico das funcionalidades do App:**
 
 ---
-## Funcionalidades
+## ✅ Funcionalidades do App
 
 ### Tela Inicial
 - **Acesso rápido por cartões/atalhos**:
@@ -204,7 +210,7 @@ Resultado Final no Lovable: https://vibe-finance-chat.lovable.app/
 - **Interação com assistente financeiro** para registro, consulta e orientação sobre finanças pessoais
 ---
 
-### Reflexões:
+### 🔍 Reflexões
 
   - O que funcionou bem?
     A construção e refinamento do PRD no Copilot M365 e a criação do app no Lovable.
