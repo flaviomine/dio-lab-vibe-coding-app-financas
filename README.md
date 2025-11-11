@@ -1,6 +1,6 @@
 # 💸 FinanceIA - App de Finanças Pessoais 
 
-Demonstrar os entregáveis do Desafio de Desenvolver um app de organização de finanças pessoais com IA conversacional.
+Demonstrar os entregáveis do Desafio de Desenvolver um app de organização de finanças pessoais com IA conversacional com base no Desafio **CAIXA - Inteligência Artificial na Prática** da Plataforma **DIO**
 
 ## 📑 Índice
 - PRD Refinado
