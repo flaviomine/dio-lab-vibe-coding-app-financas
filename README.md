@@ -6,7 +6,7 @@ Demonstrar os entregáveis do Desafio de Desenvolver um app de organização de 
 - PRD Refinado
 - Interações com a IA
 - Funcionalidades do App
-- Resultado Final
+- Reflexões
 
 ### PRD Refinado no Copilot M365
 
